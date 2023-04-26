@@ -1,2 +1,3 @@
 # netlix-clone
-Güncel netflix sayfasının Klonunu çıkardım
+Güncel netflix sayfasının Klonunu 
+HTML,CSS,JAVASCRIPT,BOOTSTRAP kullandim
